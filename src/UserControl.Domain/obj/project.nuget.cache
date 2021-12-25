@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s6TqCMkXowHHAB0YBfN1reKZcdgAxvOmMCBSb3lZmOzueYRfD5H1LRSx31/4J5u60iQIhPf8lGerRuve43xQLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fasilva10\\My_workspace\\UserControl\\src\\UserControl.Domain\\UserControl.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fasilva10\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

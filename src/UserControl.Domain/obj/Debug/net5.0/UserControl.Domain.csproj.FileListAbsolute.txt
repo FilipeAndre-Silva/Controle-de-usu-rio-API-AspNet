@@ -1,0 +1,12 @@
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\bin\Debug\net5.0\UserControl.Domain.deps.json
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\bin\Debug\net5.0\UserControl.Domain.dll
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\bin\Debug\net5.0\ref\UserControl.Domain.dll
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\bin\Debug\net5.0\UserControl.Domain.pdb
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\obj\Debug\net5.0\UserControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\obj\Debug\net5.0\UserControl.Domain.AssemblyInfoInputs.cache
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\obj\Debug\net5.0\UserControl.Domain.AssemblyInfo.cs
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\obj\Debug\net5.0\UserControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\obj\Debug\net5.0\UserControl.Domain.dll
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\obj\Debug\net5.0\ref\UserControl.Domain.dll
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\obj\Debug\net5.0\UserControl.Domain.pdb
+C:\Users\fasilva10\My_workspace\UserControl\src\UserControl.Domain\obj\Debug\net5.0\UserControl.Domain.csproj.AssemblyReference.cache
